@@ -19,7 +19,7 @@ namespace zadanie_7
 			Console.WriteLine("wprowadź r");
 			double r = inputValue();
 			r= Math.Sqrt(r);	
-			if(x+y==r)
+			if(x+y<=r)
 			{
 				Console.WriteLine("Punkt leży w obrębie koła o środku O(0,0)");
 				Console.ReadKey();

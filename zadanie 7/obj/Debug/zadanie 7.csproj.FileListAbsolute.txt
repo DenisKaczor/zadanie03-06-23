@@ -6,3 +6,11 @@ E:\SZKOŁA\PP\zadanie 7\obj\Debug\zadanie 7.csproj.SuggestedBindingRedirects.cac
 E:\SZKOŁA\PP\zadanie 7\obj\Debug\zadanie 7.csproj.CoreCompileInputs.cache
 E:\SZKOŁA\PP\zadanie 7\obj\Debug\zadanie 7.exe
 E:\SZKOŁA\PP\zadanie 7\obj\Debug\zadanie 7.pdb
+E:\SZKOŁA\PP\zadanie03-06-23\zadanie03-06-23\zadanie 7\bin\Debug\zadanie 7.exe.config
+E:\SZKOŁA\PP\zadanie03-06-23\zadanie03-06-23\zadanie 7\bin\Debug\zadanie 7.exe
+E:\SZKOŁA\PP\zadanie03-06-23\zadanie03-06-23\zadanie 7\bin\Debug\zadanie 7.pdb
+E:\SZKOŁA\PP\zadanie03-06-23\zadanie03-06-23\zadanie 7\obj\Debug\zadanie 7.csproj.AssemblyReference.cache
+E:\SZKOŁA\PP\zadanie03-06-23\zadanie03-06-23\zadanie 7\obj\Debug\zadanie 7.csproj.SuggestedBindingRedirects.cache
+E:\SZKOŁA\PP\zadanie03-06-23\zadanie03-06-23\zadanie 7\obj\Debug\zadanie 7.csproj.CoreCompileInputs.cache
+E:\SZKOŁA\PP\zadanie03-06-23\zadanie03-06-23\zadanie 7\obj\Debug\zadanie 7.exe
+E:\SZKOŁA\PP\zadanie03-06-23\zadanie03-06-23\zadanie 7\obj\Debug\zadanie 7.pdb
