@@ -1,0 +1,8 @@
+E:\SZKOŁA\PP\zadanie 8\obj\Debug\zadanie 8.csproj.AssemblyReference.cache
+E:\SZKOŁA\PP\zadanie 8\obj\Debug\zadanie 8.csproj.SuggestedBindingRedirects.cache
+E:\SZKOŁA\PP\zadanie 8\obj\Debug\zadanie 8.csproj.CoreCompileInputs.cache
+E:\SZKOŁA\PP\zadanie 8\bin\Debug\zadanie 8.exe.config
+E:\SZKOŁA\PP\zadanie 8\bin\Debug\zadanie 8.exe
+E:\SZKOŁA\PP\zadanie 8\bin\Debug\zadanie 8.pdb
+E:\SZKOŁA\PP\zadanie 8\obj\Debug\zadanie 8.exe
+E:\SZKOŁA\PP\zadanie 8\obj\Debug\zadanie 8.pdb
