@@ -14,16 +14,23 @@ namespace zadanie5
 			double a = inputValue();
 			Console.WriteLine("wprowadź drugą liczbę");
 			double b = inputValue();
-			if(a>b)
+			if (a==b)
+			{
+				Console.WriteLine("Liczby są takie same");
+				Console.ReadKey();
+			}
+			else if(a>b)
 			{
 				Console.WriteLine("wynik: "+a);
 				Console.ReadKey();
 			}
+			
 			else
 			{
 				Console.WriteLine("wynik: "+b);
 				Console.ReadKey();
 			}
+			
 		}
 		private static double inputValue()
 		{
